@@ -5,8 +5,8 @@ whac a mole web game
 
 ## Overview
 
-<img src="startPageOverview.png" width="600px" alt="start game screen">
-<img src="gameScreenOverview.png" width="600px" alt="in game screen">
+<img src="./images/startPageOverview.png" width="700px" alt="start game screen">
+<img src="./images/gameScreenOverview.png" width="700px" alt="in game screen">
 
 
 ### Upcoming changes:
